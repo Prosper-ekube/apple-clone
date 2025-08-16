@@ -1,12 +1,63 @@
-# React + Vite
+*Apple Website Clone*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Description*
 
-Currently, two official plugins are available:
+A front-end clone of the official [Apple website](https://www.apple.com/ng/) built using **React**, **Vite**, and **Tailwind CSS**.  
+This project is for **educational purposes only** and is not affiliated with or endorsed by Apple Inc. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*Features*
 
-## Expanding the ESLint configuration
+- Pixel-perfect layout inspired by Apple’s website  
+- Responsive design
+- Smooth animations & transitions  
+- Multi-page routing
+- Tailwind CSS for styling and utility-first workflow  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Tech Stack*
+
+- **Vite**
+- **React** 
+- **React Router**
+- **Tailwind CSS**
+
+*Project Structure*
+
+apple-clone/
+
+│── public/
+
+│── src/
+
+│ ├── assets/ 
+
+│ ├── components/ 
+
+│ ├── lib/
+
+│ ├── pages/
+
+│ ├── routes/
+
+│ ├── App.jsx 
+
+│ ├── main.jsx 
+
+│── package.json
+
+│── tailwind.config.js
+
+│── postcss.config.js
+
+│── vite.config.js
+
+│── README.md
+
+*Disclaimer*
+
+This project is a non-commercial clone created purely for learning and portfolio purposes.
+
+All trademarks, logos, and assets belong to Apple Inc.
+
+*Author*
+
+Prosper Ekube – GitHub
