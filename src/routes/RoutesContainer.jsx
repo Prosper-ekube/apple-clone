@@ -1,6 +1,5 @@
-import React from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
-import Home from '../pages/Home';
+import Home from '../pages/home/Home';
 import Mac from '../pages/mac/Mac';
 import IPad from '../pages/ipad/IPad';
 import IPhone from '../pages/iphone/IPhone';
